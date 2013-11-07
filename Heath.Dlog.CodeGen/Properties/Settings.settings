@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Heath.Dlog.CodeGen.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FieldsToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{fields}</Value>
+    </Setting>
+    <Setting Name="PropertiesToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{properties}</Value>
+    </Setting>
+    <Setting Name="ClassNameToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{className}</Value>
+    </Setting>
+    <Setting Name="ConstructorToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{contructors}</Value>
+    </Setting>
+    <Setting Name="CreateMethodToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{createMethod}</Value>
+    </Setting>
+    <Setting Name="ReadMethodToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{readMethod}</Value>
+    </Setting>
+    <Setting Name="UpdateMethodToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{updateMethod}</Value>
+    </Setting>
+    <Setting Name="DeleteMethodToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{deleteMethod}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

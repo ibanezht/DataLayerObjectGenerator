@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="Heath.Dlog.UI.Controls.TitleControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="30">
+
+    <Border Name="titleControlBorder" BorderBrush="{ StaticResource TitleBorderBrush }" Background="{ StaticResource TitleBackgroundBrush }" CornerRadius="5" BorderThickness="1">
+        <DockPanel Name="titleControlDockPanel">
+            <TextBlock Name="titleControlTextBlock" FontSize="13" Padding="10,4,0,0" Foreground="White" />
+        </DockPanel>
+    </Border>
+</UserControl>
